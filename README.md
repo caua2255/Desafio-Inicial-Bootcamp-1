@@ -18,4 +18,5 @@ Estudante de Ciências da Computação no Uniceub de Brasília, apaixonado por t
 ## 🔗 Conecte-se Comigo
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://is.gd/LinkedIn_caua_louzeiro)
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511917747189#1)
 * **E-mail:** caua.louzeiro@sempreceub.com
